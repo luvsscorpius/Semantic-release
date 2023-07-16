@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/luvsscorpius/Semantic-release/compare/v1.0.0...v1.0.1) (2023-07-16)
+
+
+### Bug Fixes
+
+* fixing triggers ([7555d56](https://github.com/luvsscorpius/Semantic-release/commit/7555d56eb82c29375ba7bf5b53303bbbf10846c3))
+
 # 1.0.0 (2023-07-16)
 
 
