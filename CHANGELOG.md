@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/luvsscorpius/Semantic-release/compare/v1.0.1...v1.1.0) (2023-07-16)
+
+
+### Features
+
+* Updating README ([68d93c6](https://github.com/luvsscorpius/Semantic-release/commit/68d93c651ede3d26533265e9db85e4a522f5f41a))
+
 ## [1.0.1](https://github.com/luvsscorpius/Semantic-release/compare/v1.0.0...v1.0.1) (2023-07-16)
 
 
